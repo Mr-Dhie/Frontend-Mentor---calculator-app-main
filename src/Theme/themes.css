@@ -1,0 +1,149 @@
+/* theme1 */
+.body-t1{
+    background-color: var(--main-background_theme1);
+}
+
+.cal_header-span-t1{
+    color: var(--white_theme1);
+}
+
+.cal_screen-t1{
+    background-color: var(--screen-background_theme1);
+    color: var(--white_theme1);
+}
+
+.cal_buttons-t1{
+    background-color: var(--key-and-toggle-background_theme1);
+}
+
+.cal_buttons-button-t1{
+    background-color: var(--gray-background_theme1);
+    color: var(--blue_theme1);
+    box-shadow: 0 .1rem  var(--gray-shadow_theme1)
+}
+
+.cal_buttons-button-t1:hover{
+    background-color: var(--white_theme1);
+}
+
+.reset_btn-t1,.del_btn-t1{
+    background-color: var(--blue-background_theme1);
+    color: var(--white_theme1);
+    box-shadow: 0 .1rem  var(--blue-shadow_theme1)
+}
+
+.reset_btn-t1:hover,.del_btn-t1:hover{
+    background-color: hsl(225, 30%, 59%);
+}
+
+.equal_btn-t1{
+    background-color: var(--red-background_theme1);
+    color: var(--white_theme1);
+    box-shadow: 0 .1rem  var(--red-shadow_theme1)
+}
+
+.equal_btn-t1:hover{
+    background-color: hsl(6, 77%, 58%);
+}
+
+
+
+/* theme2 */
+
+.body-t2{
+    background-color: var(--main-background_theme2);
+}
+
+.cal_header-span-t2{
+    color: var(--dark-gray_theme2);
+}
+
+.cal_screen-t2{
+    background-color: var(--screen-background_theme2);
+    color: var(--dark-gray_theme2);
+}
+
+.cal_buttons-t2{
+    background-color: var(--key-and-toggle-background_theme2);
+}
+
+.cal_buttons-button-t2{
+    background-color: var(--gray-background_theme2);
+    color: var(--dark-gray_theme2);
+    box-shadow: 0 .1rem  var(--gray-shadow_theme2)
+}
+
+.cal_buttons-button-t2:hover{
+    background-color: var(--white_theme2);
+}
+
+.reset_btn-t2,.del_btn-t2{
+    background-color: var(--cyan-background_theme2);
+    color: var(--white_theme2);
+    box-shadow: 0 .1rem  var(--cyan-shadow_theme2)
+}
+
+.reset_btn-t2:hover,.del_btn-t2:hover{
+    background-color: hsl(185, 34%, 53%);
+}
+
+.equal_btn-t2{
+    background-color: var(--orange-background_theme2);
+    color: var(--white_theme2);
+    box-shadow: 0 .1rem  var(--orange-shadow_theme2)
+}
+
+.equal_btn-t2:hover{
+    background-color: hsl(25, 73%, 55%);
+}
+
+
+
+/* theme3 */
+
+.body-t3{
+    background-color: var(--main-background_theme3);
+}
+
+.cal_header-span-t3{
+    color: var(--yellow_theme3);
+}
+
+.cal_screen-t3{
+    background-color: var(--key-and-toggle-background_theme3);
+    color: var(--yellow_theme3);
+}
+
+.cal_buttons-t3{
+    background-color: var(--key-and-toggle-background_theme3);
+}
+
+.cal_buttons-button-t3{
+    background-color: var(--dark-violet-background_theme3);
+    color: var(--yellow_theme3);
+    box-shadow: 0 .1rem  var(--magenta-shadow_theme3)
+}
+
+.cal_buttons-button-t3:hover{
+    background-color: hsl(268, 54%, 44%);
+}
+
+.reset_btn-t3,.del_btn-t3{
+    background-color: var(--violet-background_theme3);
+    color: var(--white_theme3);
+    box-shadow: 0 .1rem  var(--magenta-shadow_theme3)
+}
+
+.reset_btn-t3:hover,.del_btn-t3:hover{
+    background-color: hsl(280, 56%, 44%);
+}
+
+.equal_btn-t3{
+    background-color: var(--cyan-background_theme3);
+    color: var(--blue_theme3);
+    box-shadow: 0 .1rem  var(--cyan-shadow_theme3)
+}
+
+.equal_btn-t3:hover{
+    background-color: hsl(177, 100%, 79%);
+}
